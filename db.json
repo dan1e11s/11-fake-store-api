@@ -1137,21 +1137,5 @@
         "count": 100
       }
     }
-  ],
-  "users": [
-    {
-      "email": "danielmuratov79789@gmail.com",
-      "password": "qweqwe",
-      "repeatPassword": "qweqwe",
-      "firstName": "Daniel",
-      "lastName": "Muratov",
-      "address": "улица Урманаева",
-      "address2": "",
-      "city": "село Теплоключенка",
-      "postcode": "721800",
-      "province": "Issyk Kyl",
-      "telephone": "+996705695065",
-      "id": "mpxQ66uYRXREOy5dazBffqzS0N82"
-    }
   ]
 }
